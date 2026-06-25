@@ -1,6 +1,6 @@
 ---
 title: "My University Journey & Learning Experience"
-date: 2026-04-05
+date: 2026-06-25
 categories: [University Life, Learning Journey]
 tags: [university, programming, python, machine learning, database, github, experience]
 ---
